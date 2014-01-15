@@ -5,7 +5,7 @@ library(lubridate)
 
 setwd("~/Dropbox/IDC 2014/log data/")
 
-player1 <- read.csv(file="2013.12.10-01-actions.log.csv",
+player13M <- read.csv(file="2013.12.10-01-actions.log.csv",
                     header=TRUE,
                     stringsAsFactors=FALSE)
 
@@ -32,4 +32,19 @@ renameColumnHeaders <- function(input) {
   )
 }
 
-player1 <- cleanData(player1)
+player13M <- cleanData(player13M)
+
+## Plots
+
+p <- ggplot(aes(x = secondsSinceSessionStart),
+            data = player13M)
+
+p <- p + geom_line(aes(y = ..count..,
+                       color = as.factor(activityType),
+                       group = as.factor(activityType)), 
+                   stat="bin",
+                   binwidth=30,
+                   origin=0,
+                   right=FALSE)
+
+print(p)
