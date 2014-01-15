@@ -8,6 +8,10 @@ set1 <- read.csv(file="2013.12.10-01-actions.log.csv",
                  header=TRUE,
                  stringsAsFactors=FALSE)
 
+cleanData <- function(input) {
+  input <- renameColumnHeaders(input)
+}
+
 renameColumnHeaders <- function(input) {
   return(
     rename(input, c("time_stamp"              = "timestamp",
@@ -19,4 +23,4 @@ renameColumnHeaders <- function(input) {
   )
 }
 
-names(renameColumnHeaders(set1))
+set1 <- cleanData(set1)
