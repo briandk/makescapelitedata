@@ -1,15 +1,24 @@
 # Required libraries
 library(ggplot2)
 library(plyr)
+library(lubridate)
 
 setwd("~/Dropbox/IDC 2014/log data/")
 
-set1 <- read.csv(file="2013.12.10-01-actions.log.csv",
-                 header=TRUE,
-                 stringsAsFactors=FALSE)
+player1 <- read.csv(file="2013.12.10-01-actions.log.csv",
+                    header=TRUE,
+                    stringsAsFactors=FALSE)
 
 cleanData <- function(input) {
   input <- renameColumnHeaders(input)
+  input["timestamp"] <- formatTimestamps(input[, "timestamp"])
+  return(input)
+}
+
+formatTimestamps <- function(timestamps) {
+  return(
+    ymd_hms(timestamps)
+  )
 }
 
 renameColumnHeaders <- function(input) {
@@ -23,4 +32,4 @@ renameColumnHeaders <- function(input) {
   )
 }
 
-set1 <- cleanData(set1)
+player1 <- cleanData(player1)
