@@ -36,15 +36,21 @@ player13M <- cleanData(player13M)
 
 ## Plots
 
+activityTypeOverTime <- function(input) {
+  return(
+    geom_line(aes(y = ..count..,
+                  color = as.factor(activityType),
+                  group = as.factor(activityType)), 
+              stat="bin",
+              binwidth=30,
+              origin=0,
+              right=FALSE)
+  )
+}
+
 p <- ggplot(aes(x = secondsSinceSessionStart),
             data = player13M)
 
-p <- p + geom_line(aes(y = ..count..,
-                       color = as.factor(activityType),
-                       group = as.factor(activityType)), 
-                   stat="bin",
-                   binwidth=30,
-                   origin=0,
-                   right=FALSE)
+p <- p + activityTypeOverTime(player13M)
 
 print(p)
