@@ -1,0 +1,596 @@
+time_stamp,sec_since_session_start,data,screen_position,__class__
+2013-12-10 19:08:50,6,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red]","(1725.0, 736.0)",SelectNode
+2013-12-10 19:08:50,6,,"(1725.0, 736.0)",StartTouch
+2013-12-10 19:08:50,6,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red]","(1723.0, 739.0)",ReleaseNode
+2013-12-10 19:08:50,6,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red]","(1720.0, 737.0)",SelectNode
+2013-12-10 19:08:50,6,,"(1720.0, 737.0)",StartTouch
+2013-12-10 19:08:59,15,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red]","(1038.0, 779.0)",ReleaseNode
+2013-12-10 19:09:00,16,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Red]","(1375.0, 212.0)",SelectNode
+2013-12-10 19:09:00,16,,"(1375.0, 212.0)",StartTouch
+2013-12-10 19:09:05,21,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Red]","(927.0, 327.0)",ReleaseNode
+2013-12-10 19:09:05,21,"[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Red]","(237.0, 302.0)",SelectNode
+2013-12-10 19:09:05,21,,"(237.0, 302.0)",StartTouch
+2013-12-10 19:09:06,22,"[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Red]","(619.0, 531.0)",ReleaseNode
+2013-12-10 19:09:06,22,"[ConnectorControl: Id=bd66a6c1-ad37-4fda-8682-3d2e535e703a, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Red], Charge=Positive]","(516.0, 548.0)",SelectConnector
+2013-12-10 19:09:06,22,"[ConnectorControl: Id=bd66a6c1-ad37-4fda-8682-3d2e535e703a, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Red], Charge=Positive]","(518.0, 549.0)",ReleaseConnector
+2013-12-10 19:09:07,23,"[ConnectorControl: Id=bd66a6c1-ad37-4fda-8682-3d2e535e703a, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Red], Charge=Positive]","(541.0, 546.0)",SelectConnector
+2013-12-10 19:09:07,23,"[ConnectorControl: Id=bd66a6c1-ad37-4fda-8682-3d2e535e703a, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Red], Charge=Positive]","(549.0, 555.0)",ReleaseConnector
+2013-12-10 19:09:07,23,"[ConnectorControl: Id=bd66a6c1-ad37-4fda-8682-3d2e535e703a, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Red], Charge=Positive]","(541.0, 549.0)",SelectConnector
+2013-12-10 19:09:07,23,"[ConnectorControl: Id=bd66a6c1-ad37-4fda-8682-3d2e535e703a, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Red], Charge=Positive]","(546.0, 553.0)",ReleaseConnector
+2013-12-10 19:09:08,24,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Red]","(940.0, 318.0)",SelectNode
+2013-12-10 19:09:08,24,,"(940.0, 318.0)",StartTouch
+2013-12-10 19:09:09,25,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Red]","(641.0, 272.0)",ReleaseNode
+2013-12-10 19:09:10,26,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red]","(1052.0, 806.0)",SelectNode
+2013-12-10 19:09:10,26,,"(1052.0, 806.0)",StartTouch
+2013-12-10 19:09:12,28,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red]","(1803.0, 990.0)",ReleaseNode
+2013-12-10 19:09:13,29,"[Connection: Id=618d3508-665e-4ff2-a9dc-4ddfa9c7975e, Source=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red], Destination=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active]]","(1317.0, 875.0)",RemoveConnection
+2013-12-10 19:09:13,29,,"(1150.0, 680.0)",EndTouch
+2013-12-10 19:09:14,30,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Red]","(665.0, 300.0)",SelectNode
+2013-12-10 19:09:14,30,,"(665.0, 300.0)",StartTouch
+2013-12-10 19:09:14,30,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Red]","(1045.0, 352.0)",ReleaseNode
+2013-12-10 19:09:16,32,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Red], Charge=Negative]","(1851.0, 917.0)",SelectConnector
+2013-12-10 19:09:16,32,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Red], Charge=Negative]","(1849.0, 908.0)",ReleaseConnector
+2013-12-10 19:09:17,33,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Red]","(1803.0, 1006.0)",SelectNode
+2013-12-10 19:09:17,33,,"(1803.0, 1006.0)",StartTouch
+2013-12-10 19:09:19,35,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Red]","(1233.0, 812.0)",ReleaseNode
+2013-12-10 19:09:20,36,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Red], Charge=Negative]","(1267.0, 746.0)",SelectConnector
+2013-12-10 19:09:20,36,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Red], Charge=Negative]","(1268.0, 746.0)",ReleaseConnector
+2013-12-10 19:09:21,37,,"(1186.0, 671.0)",EndTouch
+2013-12-10 19:09:22,38,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Red, To=Green]","(1229.0, 817.0)",ChangeLEDColor
+2013-12-10 19:09:22,38,,"(1118.0, 770.0)",EndTouch
+2013-12-10 19:09:23,39,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Red]","(1112.0, 370.0)",SelectNode
+2013-12-10 19:09:23,39,,"(1112.0, 370.0)",StartTouch
+2013-12-10 19:09:24,40,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Red]","(1157.0, 347.0)",ReleaseNode
+2013-12-10 19:09:25,41,"[Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, From=Red, To=Green]","(1160.0, 344.0)",ChangeLEDColor
+2013-12-10 19:09:25,41,,"(1142.0, 501.0)",EndTouch
+2013-12-10 19:09:26,42,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green]","(1201.0, 391.0)",SelectNode
+2013-12-10 19:09:26,42,,"(1201.0, 391.0)",StartTouch
+2013-12-10 19:09:27,43,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green]","(1047.0, 597.0)",ReleaseNode
+2013-12-10 19:09:27,43,"[ConnectorControl: Id=e34f5d7c-49d8-498f-872e-38a9d1f2ec65, Node=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green], Charge=Positive]","(1140.0, 614.0)",SelectConnector
+2013-12-10 19:09:28,44,"[ConnectorControl: Id=e34f5d7c-49d8-498f-872e-38a9d1f2ec65, Node=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green], Charge=Positive]","(1154.0, 666.0)",ReleaseConnector
+2013-12-10 19:09:29,45,TurnOff,"(6.0, 4.0)",ToggleScoreCard
+2013-12-10 19:09:33,49,,"(1677.0, 1420.0)",DismissScoreCard
+2013-12-10 19:09:33,49,,"(1662.0, 1386.0)",EndTouch
+2013-12-10 19:09:34,50,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green]","(1088.0, 609.0)",SelectNode
+2013-12-10 19:09:34,50,,"(1088.0, 609.0)",StartTouch
+2013-12-10 19:09:36,52,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green]","(1098.0, 519.0)",ReleaseNode
+2013-12-10 19:09:36,52,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Green]","(1235.0, 801.0)",SelectNode
+2013-12-10 19:09:36,52,,"(1235.0, 801.0)",StartTouch
+2013-12-10 19:09:38,54,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Green]","(1126.0, 817.0)",ReleaseNode
+2013-12-10 19:09:39,55,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Green]","(1167.0, 821.0)",SelectNode
+2013-12-10 19:09:39,55,,"(1167.0, 821.0)",StartTouch
+2013-12-10 19:09:39,55,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Green]","(1213.0, 896.0)",ReleaseNode
+2013-12-10 19:09:40,56,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Green, To=Red]","(1215.0, 900.0)",ChangeLEDColor
+2013-12-10 19:09:40,56,,"(1157.0, 771.0)",EndTouch
+2013-12-10 19:09:41,57,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Red]","(1258.0, 837.0)",SelectNode
+2013-12-10 19:09:41,57,,"(1258.0, 837.0)",StartTouch
+2013-12-10 19:09:41,57,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Red]","(1258.0, 835.0)",ReleaseNode
+2013-12-10 19:09:42,58,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Red], Charge=Negative]","(1303.0, 758.0)",SelectConnector
+2013-12-10 19:09:42,58,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Red], Charge=Negative]","(1304.0, 759.0)",ReleaseConnector
+2013-12-10 19:09:42,58,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Red], Charge=Negative]","(1297.0, 745.0)",SelectConnector
+2013-12-10 19:09:45,61,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Red], Charge=Negative]","(881.0, 703.0)",ReleaseConnector
+2013-12-10 19:09:46,62,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Red], Charge=Negative]","(1308.0, 768.0)",SelectConnector
+2013-12-10 19:09:49,65,"[Connection: Id=2f023373-573d-41d9-b8c3-181a1f2b35e2, Source=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Red], Destination=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Charged, Color=Green]]","(1176.0, 678.0)",AddConnection
+2013-12-10 19:09:49,65,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Red], Charge=Negative]","(1206.0, 542.0)",ReleaseConnector
+2013-12-10 19:09:50,66,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Charged, Color=Green]","(1021.0, 499.0)",SelectNode
+2013-12-10 19:09:50,66,,"(1021.0, 499.0)",StartTouch
+2013-12-10 19:09:51,67,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Charged, Color=Green]","(1050.0, 485.0)",ReleaseNode
+2013-12-10 19:09:51,67,"[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Red]","(550.0, 520.0)",SelectNode
+2013-12-10 19:09:51,67,,"(550.0, 520.0)",StartTouch
+2013-12-10 19:09:52,68,"[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Red]","(743.0, 537.0)",ReleaseNode
+2013-12-10 19:09:52,68,"[ConnectorControl: Id=bd66a6c1-ad37-4fda-8682-3d2e535e703a, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Red], Charge=Positive]","(638.0, 532.0)",SelectConnector
+2013-12-10 19:09:54,70,"[Connection: Id=4b0cbd8a-9bcd-4989-8c5f-4ca57b34690f, Source=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Charged, Color=Green], Destination=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Charged, Color=Red]]","(902.0, 510.0)",AddConnection
+2013-12-10 19:09:54,70,"[ConnectorControl: Id=bd66a6c1-ad37-4fda-8682-3d2e535e703a, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Charged, Color=Red], Charge=Positive]","(958.0, 449.0)",ReleaseConnector
+2013-12-10 19:09:56,72,,"(1451.0, 372.0)",EndTouch
+2013-12-10 19:09:56,72,,"(776.0, 686.0)",EndTouch
+2013-12-10 19:09:57,73,"[ConnectorControl: Id=bd66a6c1-ad37-4fda-8682-3d2e535e703a, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Charged, Color=Red], Charge=Positive]","(655.0, 546.0)",SelectConnector
+2013-12-10 19:09:58,74,"[ConnectorControl: Id=bd66a6c1-ad37-4fda-8682-3d2e535e703a, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Charged, Color=Red], Charge=Positive]","(1672.0, 493.0)",ReleaseConnector
+2013-12-10 19:09:58,74,,"(849.0, 674.0)",EndTouch
+2013-12-10 19:09:59,75,"[ConnectorControl: Id=bd66a6c1-ad37-4fda-8682-3d2e535e703a, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Charged, Color=Red], Charge=Positive]","(657.0, 535.0)",SelectConnector
+2013-12-10 19:10:00,76,"[ConnectorControl: Id=bd66a6c1-ad37-4fda-8682-3d2e535e703a, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Charged, Color=Red], Charge=Positive]","(847.0, 667.0)",ReleaseConnector
+2013-12-10 19:10:03,79,"[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Charged, Color=Red]","(811.0, 562.0)",SelectNode
+2013-12-10 19:10:03,79,,"(811.0, 562.0)",StartTouch
+2013-12-10 19:10:05,81,"[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Charged, Color=Red]","(773.0, 599.0)",ReleaseNode
+2013-12-10 19:10:06,82,,"(1917.0, 494.0)",EndTouch
+2013-12-10 19:10:06,82,"[Connection: Id=2f023373-573d-41d9-b8c3-181a1f2b35e2, Source=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Red], Destination=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Charged, Color=Green]]","(1157.0, 661.0)",RemoveConnection
+2013-12-10 19:10:06,82,,"(1139.0, 677.0)",EndTouch
+2013-12-10 19:10:06,82,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green]","(1122.0, 520.0)",SelectNode
+2013-12-10 19:10:06,82,,"(1122.0, 520.0)",StartTouch
+2013-12-10 19:10:07,83,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green]","(960.0, 442.0)",ReleaseNode
+2013-12-10 19:10:07,83,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Red], Charge=Negative]","(1298.0, 769.0)",SelectConnector
+2013-12-10 19:10:09,85,"[Connection: Id=3968fdd5-854f-4fea-92a9-cba863dd4194, Source=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red], Destination=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active]]","(1045.0, 832.0)",AddConnection
+2013-12-10 19:10:09,85,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red], Charge=Negative]","(875.0, 748.0)",ReleaseConnector
+2013-12-10 19:10:10,86,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red]","(1273.0, 837.0)",SelectNode
+2013-12-10 19:10:10,86,,"(1273.0, 837.0)",StartTouch
+2013-12-10 19:10:11,87,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red]","(1848.0, 501.0)",ReleaseNode
+2013-12-10 19:10:11,87,,"(1125.0, 924.0)",EndTouch
+2013-12-10 19:10:12,88,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red]","(1498.0, 706.0)",SelectNode
+2013-12-10 19:10:12,88,,"(1498.0, 706.0)",StartTouch
+2013-12-10 19:10:13,89,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red]","(1698.0, 485.0)",ReleaseNode
+2013-12-10 19:10:13,89,,"(976.0, 862.0)",EndTouch
+2013-12-10 19:10:14,90,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red]","(1384.0, 690.0)",SelectNode
+2013-12-10 19:10:14,90,,"(1384.0, 690.0)",StartTouch
+2013-12-10 19:10:18,94,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red]","(852.0, 861.0)",ReleaseNode
+2013-12-10 19:10:19,95,"[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Red]","(810.0, 579.0)",SelectNode
+2013-12-10 19:10:19,95,,"(810.0, 579.0)",StartTouch
+2013-12-10 19:10:20,96,"[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Red]","(653.0, 418.0)",ReleaseNode
+2013-12-10 19:10:20,96,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red]","(888.0, 847.0)",SelectNode
+2013-12-10 19:10:20,96,,"(888.0, 847.0)",StartTouch
+2013-12-10 19:10:22,98,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red]","(762.0, 785.0)",ReleaseNode
+2013-12-10 19:10:23,99,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green]","(986.0, 395.0)",SelectNode
+2013-12-10 19:10:23,99,,"(986.0, 395.0)",StartTouch
+2013-12-10 19:10:24,100,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green]","(711.0, 186.0)",ReleaseNode
+2013-12-10 19:10:26,102,,"(760.0, 438.0)",EndTouch
+2013-12-10 19:10:26,102,"[ConnectorControl: Id=e34f5d7c-49d8-498f-872e-38a9d1f2ec65, Node=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green], Charge=Positive]","(791.0, 255.0)",SelectConnector
+2013-12-10 19:10:27,103,"[Connection: Id=238fc9b5-3bbd-41f7-8e76-f228066b229f, Source=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Red], Destination=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green]]","(681.0, 300.0)",AddConnection
+2013-12-10 19:10:27,103,"[ConnectorControl: Id=e34f5d7c-49d8-498f-872e-38a9d1f2ec65, Node=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green], Charge=Positive]","(741.0, 438.0)",ReleaseConnector
+2013-12-10 19:10:28,104,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green]","(743.0, 153.0)",SelectNode
+2013-12-10 19:10:28,104,,"(743.0, 153.0)",StartTouch
+2013-12-10 19:10:31,107,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green]","(698.0, 329.0)",ReleaseNode
+2013-12-10 19:10:32,108,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green]","(730.0, 311.0)",SelectNode
+2013-12-10 19:10:32,108,,"(730.0, 311.0)",StartTouch
+2013-12-10 19:10:33,109,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green]","(986.0, 303.0)",ReleaseNode
+2013-12-10 19:10:35,111,,"(1210.0, 558.0)",EndTouch
+2013-12-10 19:10:36,112,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green]","(1038.0, 277.0)",SelectNode
+2013-12-10 19:10:36,112,,"(1038.0, 277.0)",StartTouch
+2013-12-10 19:10:36,112,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green]","(1100.0, 317.0)",ReleaseNode
+2013-12-10 19:10:36,112,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red]","(792.0, 788.0)",SelectNode
+2013-12-10 19:10:36,112,,"(792.0, 788.0)",StartTouch
+2013-12-10 19:10:41,117,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red]","(1183.0, 558.0)",ReleaseNode
+2013-12-10 19:10:41,117,"[Connection: Id=86ac6b5b-c0d1-405a-9c3f-ac0719b42b3e, Source=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active], Destination=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red]]","(760.0, 739.0)",RemoveConnection
+2013-12-10 19:10:41,117,,"(726.0, 1020.0)",EndTouch
+2013-12-10 19:10:42,118,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Grounded, Color=Red]","(893.0, 783.0)",SelectNode
+2013-12-10 19:10:42,118,,"(893.0, 783.0)",StartTouch
+2013-12-10 19:10:43,119,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Grounded, Color=Red]","(830.0, 805.0)",ReleaseNode
+2013-12-10 19:10:43,119,"[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=None]","(668.0, 717.0)",SelectNode
+2013-12-10 19:10:43,119,,"(668.0, 717.0)",StartTouch
+2013-12-10 19:10:43,119,"[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=None]","(1431.0, 368.0)",ReleaseNode
+2013-12-10 19:10:44,120,,"(628.0, 797.0)",EndTouch
+2013-12-10 19:10:44,120,"[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=None]","(1074.0, 619.0)",SelectNode
+2013-12-10 19:10:44,120,,"(1074.0, 619.0)",StartTouch
+2013-12-10 19:10:45,121,"[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=None]","(808.0, 1024.0)",ReleaseNode
+2013-12-10 19:10:45,121,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Grounded, Color=Red]","(884.0, 805.0)",SelectNode
+2013-12-10 19:10:45,121,,"(884.0, 805.0)",StartTouch
+2013-12-10 19:10:47,123,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Grounded, Color=Red]","(1015.0, 1138.0)",ReleaseNode
+2013-12-10 19:10:47,123,"[ConnectorControl: Id=bfda59fb-1521-425c-aee4-983b20269021, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Grounded, Color=Red], Charge=Positive]","(966.0, 1201.0)",SelectConnector
+2013-12-10 19:10:48,124,"[Connection: Id=1078592e-7eb7-42b6-969c-5a99cf2ddd94, Source=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active], Destination=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red]]","(913.0, 1084.0)",AddConnection
+2013-12-10 19:10:48,124,"[ConnectorControl: Id=bfda59fb-1521-425c-aee4-983b20269021, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red], Charge=Positive]","(765.0, 1130.0)",ReleaseConnector
+2013-12-10 19:10:50,126,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Red, To=Blue]","(1018.0, 1133.0)",ChangeLEDColor
+2013-12-10 19:10:50,126,,"(850.0, 1151.0)",EndTouch
+2013-12-10 19:10:51,127,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Blue, To=Red]","(1018.0, 1133.0)",ChangeLEDColor
+2013-12-10 19:10:51,127,,"(988.0, 992.0)",EndTouch
+2013-12-10 19:10:52,128,,"(585.0, 881.0)",EndTouch
+2013-12-10 19:11:00,136,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green]","(1143.0, 316.0)",SelectNode
+2013-12-10 19:11:00,136,,"(1143.0, 316.0)",StartTouch
+2013-12-10 19:11:08,144,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green]","(792.0, 238.0)",ReleaseNode
+2013-12-10 19:11:10,146,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green]","(828.0, 205.0)",SelectNode
+2013-12-10 19:11:10,146,,"(828.0, 205.0)",StartTouch
+2013-12-10 19:11:12,148,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green]","(840.0, 164.0)",ReleaseNode
+2013-12-10 19:11:14,150,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Red, To=Green]","(1018.0, 1133.0)",ChangeLEDColor
+2013-12-10 19:11:14,150,,"(903.0, 1051.0)",EndTouch
+2013-12-10 19:11:18,154,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Green, To=Red]","(1018.0, 1133.0)",ChangeLEDColor
+2013-12-10 19:11:18,154,,"(1005.0, 987.0)",EndTouch
+2013-12-10 19:11:26,162,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Red, To=Green]","(1018.0, 1133.0)",ChangeLEDColor
+2013-12-10 19:11:26,162,,"(905.0, 1056.0)",EndTouch
+2013-12-10 19:11:29,165,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Green, To=Blue]","(1018.0, 1133.0)",ChangeLEDColor
+2013-12-10 19:11:29,165,,"(860.0, 1183.0)",EndTouch
+2013-12-10 19:11:32,168,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Blue, To=Green]","(1018.0, 1133.0)",ChangeLEDColor
+2013-12-10 19:11:32,168,,"(908.0, 1050.0)",EndTouch
+2013-12-10 19:11:32,168,,"(889.0, 1048.0)",EndTouch
+2013-12-10 19:11:34,170,,"(918.0, 1060.0)",EndTouch
+2013-12-10 19:11:35,171,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Green, To=Blue]","(1018.0, 1133.0)",ChangeLEDColor
+2013-12-10 19:11:35,171,,"(868.0, 1177.0)",EndTouch
+2013-12-10 19:11:46,182,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Blue, To=Red]","(1018.0, 1133.0)",ChangeLEDColor
+2013-12-10 19:11:46,182,,"(988.0, 958.0)",EndTouch
+2013-12-10 19:11:47,183,,"(1628.0, 694.0)",EndTouch
+2013-12-10 19:11:48,184,"[Connection: Id=3968fdd5-854f-4fea-92a9-cba863dd4194, Source=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red], Destination=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active]]","(913.0, 1084.0)",RemoveConnection
+2013-12-10 19:11:48,184,"[Connection: Id=1078592e-7eb7-42b6-969c-5a99cf2ddd94, Source=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=None], Destination=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Red]]","(913.0, 1084.0)",RemoveConnection
+2013-12-10 19:11:48,184,,"(878.0, 1163.0)",EndTouch
+2013-12-10 19:11:48,184,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Red, To=Blue]","(1018.0, 1133.0)",ChangeLEDColor
+2013-12-10 19:11:48,184,,"(881.0, 1162.0)",EndTouch
+2013-12-10 19:11:49,185,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=None, Color=Blue]","(1034.0, 1145.0)",SelectNode
+2013-12-10 19:11:49,185,,"(1034.0, 1145.0)",StartTouch
+2013-12-10 19:11:49,185,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=None, Color=Blue]","(1039.0, 1153.0)",ReleaseNode
+2013-12-10 19:11:49,185,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=None, Color=Blue], Charge=Negative]","(1068.0, 1055.0)",SelectConnector
+2013-12-10 19:11:50,186,"[Connection: Id=d9a2f6f3-4e55-4817-a559-46344575d959, Source=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Grounded, Color=Blue], Destination=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=None]]","(913.0, 1084.0)",AddConnection
+2013-12-10 19:11:50,186,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Grounded, Color=Blue], Charge=Negative]","(864.0, 960.0)",ReleaseConnector
+2013-12-10 19:11:51,187,,"(828.0, 1134.0)",EndTouch
+2013-12-10 19:11:51,187,"[ConnectorControl: Id=bfda59fb-1521-425c-aee4-983b20269021, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Grounded, Color=Blue], Charge=Positive]","(966.0, 1200.0)",SelectConnector
+2013-12-10 19:11:52,188,"[Connection: Id=2974cbe7-e257-4fa0-a9aa-b908a02f48b1, Source=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active], Destination=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Blue]]","(913.0, 1084.0)",AddConnection
+2013-12-10 19:11:52,188,"[ConnectorControl: Id=bfda59fb-1521-425c-aee4-983b20269021, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Blue], Charge=Positive]","(740.0, 1104.0)",ReleaseConnector
+2013-12-10 19:11:54,190,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green]","(875.0, 156.0)",SelectNode
+2013-12-10 19:11:54,190,,"(875.0, 156.0)",StartTouch
+2013-12-10 19:11:54,190,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green]","(872.0, 166.0)",ReleaseNode
+2013-12-10 19:11:54,190,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green]","(870.0, 160.0)",SelectNode
+2013-12-10 19:11:54,190,,"(870.0, 160.0)",StartTouch
+2013-12-10 19:11:56,192,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green]","(1211.0, 655.0)",ReleaseNode
+2013-12-10 19:11:57,193,"[ConnectorControl: Id=e34f5d7c-49d8-498f-872e-38a9d1f2ec65, Node=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green], Charge=Positive]","(1273.0, 705.0)",SelectConnector
+2013-12-10 19:11:58,194,"[Connection: Id=77aae0e3-45cf-4755-9049-7455f8fcc122, Source=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Blue], Destination=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Charged, Color=Green]]","(1113.0, 896.0)",AddConnection
+2013-12-10 19:11:58,194,"[ConnectorControl: Id=e34f5d7c-49d8-498f-872e-38a9d1f2ec65, Node=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Charged, Color=Green], Charge=Positive]","(1077.0, 1070.0)",ReleaseConnector
+2013-12-10 19:11:59,195,"[ConnectorControl: Id=2342b1cc-d8f9-4d27-8234-6f0cdcea97aa, Node=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Charged, Color=Green], Charge=Negative]","(1122.0, 602.0)",SelectConnector
+2013-12-10 19:12:00,196,"[Connection: Id=5ec551f2-0c0a-48bd-a3b3-df16c65b736b, Source=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Active, Color=Green], Destination=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active]]","(1008.0, 847.0)",AddConnection
+2013-12-10 19:12:00,196,"[ConnectorControl: Id=2342b1cc-d8f9-4d27-8234-6f0cdcea97aa, Node=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Active, Color=Green], Charge=Negative]","(850.0, 951.0)",ReleaseConnector
+2013-12-10 19:12:03,199,"[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Red]","(606.0, 456.0)",SelectNode
+2013-12-10 19:12:03,199,,"(606.0, 456.0)",StartTouch
+2013-12-10 19:12:04,200,"[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Red]","(675.0, 736.0)",ReleaseNode
+2013-12-10 19:12:09,205,"[ConnectorControl: Id=7abb03f8-d403-4897-a68e-ddf52cc60585, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Red], Charge=Negative]","(748.0, 805.0)",SelectConnector
+2013-12-10 19:12:10,206,"[ConnectorControl: Id=7abb03f8-d403-4897-a68e-ddf52cc60585, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Red], Charge=Negative]","(903.0, 994.0)",ReleaseConnector
+2013-12-10 19:12:11,207,"[ConnectorControl: Id=7abb03f8-d403-4897-a68e-ddf52cc60585, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Red], Charge=Negative]","(756.0, 777.0)",SelectConnector
+2013-12-10 19:12:13,209,"[ConnectorControl: Id=7abb03f8-d403-4897-a68e-ddf52cc60585, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Red], Charge=Negative]","(757.0, 1128.0)",ReleaseConnector
+2013-12-10 19:12:20,216,"[Connection: Id=4b0cbd8a-9bcd-4989-8c5f-4ca57b34690f, Source=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Active, Color=Green], Destination=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Red]]","(939.0, 701.0)",RemoveConnection
+2013-12-10 19:12:20,216,"[Connection: Id=238fc9b5-3bbd-41f7-8e76-f228066b229f, Source=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Grounded, Color=Red], Destination=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Active, Color=Green]]","(939.0, 701.0)",RemoveConnection
+2013-12-10 19:12:20,216,"[Connection: Id=5ec551f2-0c0a-48bd-a3b3-df16c65b736b, Source=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Active, Color=Green], Destination=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active]]","(1008.0, 847.0)",RemoveConnection
+2013-12-10 19:12:20,216,,"(1137.0, 793.0)",EndTouch
+2013-12-10 19:12:21,217,"[ConnectorControl: Id=7abb03f8-d403-4897-a68e-ddf52cc60585, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Red], Charge=Negative]","(754.0, 762.0)",SelectConnector
+2013-12-10 19:12:22,218,"[ConnectorControl: Id=7abb03f8-d403-4897-a68e-ddf52cc60585, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Red], Charge=Negative]","(1134.0, 648.0)",ReleaseConnector
+2013-12-10 19:12:22,218,"[ConnectorControl: Id=7abb03f8-d403-4897-a68e-ddf52cc60585, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Red], Charge=Negative]","(738.0, 789.0)",SelectConnector
+2013-12-10 19:12:22,218,"[ConnectorControl: Id=7abb03f8-d403-4897-a68e-ddf52cc60585, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Red], Charge=Negative]","(1553.0, 337.0)",ReleaseConnector
+2013-12-10 19:12:23,219,"[Connection: Id=77aae0e3-45cf-4755-9049-7455f8fcc122, Source=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Blue], Destination=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Charged, Color=Green]]","(1113.0, 896.0)",RemoveConnection
+2013-12-10 19:12:23,219,,"(1315.0, 767.0)",EndTouch
+2013-12-10 19:12:24,220,,"(986.0, 787.0)",EndTouch
+2013-12-10 19:12:24,220,,"(1210.0, 743.0)",EndTouch
+2013-12-10 19:12:25,221,"[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Red]","(728.0, 783.0)",SelectNode
+2013-12-10 19:12:25,221,,"(728.0, 783.0)",StartTouch
+2013-12-10 19:12:26,222,"[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Red]","(854.0, 768.0)",ReleaseNode
+2013-12-10 19:12:26,222,"[ConnectorControl: Id=7abb03f8-d403-4897-a68e-ddf52cc60585, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Red], Charge=Negative]","(949.0, 804.0)",SelectConnector
+2013-12-10 19:12:27,223,"[Connection: Id=e3bdcb12-1f1b-46bd-86d8-edec7f04c7cd, Source=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Red], Destination=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green]]","(1032.0, 714.0)",AddConnection
+2013-12-10 19:12:27,223,"[ConnectorControl: Id=7abb03f8-d403-4897-a68e-ddf52cc60585, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Red], Charge=Negative]","(1303.0, 711.0)",ReleaseConnector
+2013-12-10 19:12:28,224,"[ConnectorControl: Id=bd66a6c1-ad37-4fda-8682-3d2e535e703a, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Red], Charge=Positive]","(770.0, 734.0)",SelectConnector
+2013-12-10 19:12:29,225,"[Connection: Id=973b59ed-2f8f-4889-9b55-ac83a791dab8, Source=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Green], Destination=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Red]]","(1032.0, 714.0)",AddConnection
+2013-12-10 19:12:29,225,"[ConnectorControl: Id=bd66a6c1-ad37-4fda-8682-3d2e535e703a, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Red], Charge=Positive]","(1147.0, 602.0)",ReleaseConnector
+2013-12-10 19:12:30,226,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Blue], Charge=Negative]","(1081.0, 1059.0)",SelectConnector
+2013-12-10 19:12:31,227,"[Connection: Id=674dd73d-7f39-4793-b425-57b431d5fbc7, Source=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Blue], Destination=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Charged, Color=Green]]","(1113.0, 896.0)",AddConnection
+2013-12-10 19:12:31,227,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Blue], Charge=Negative]","(1297.0, 706.0)",ReleaseConnector
+2013-12-10 19:12:31,227,"[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active]","(840.0, 970.0)",SelectNode
+2013-12-10 19:12:31,227,,"(840.0, 970.0)",StartTouch
+2013-12-10 19:12:32,228,"[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active]","(839.0, 980.0)",ReleaseNode
+2013-12-10 19:12:33,229,"[ConnectorControl: Id=b9aec270-63ef-4f52-9100-44ce3261a4c0, Node=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active], Charge=Positive]","(911.0, 911.0)",SelectConnector
+2013-12-10 19:12:34,230,"[Connection: Id=c01e6c35-1d26-4a09-8249-5510fbb77872, Source=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Active, Color=Green], Destination=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active]]","(1022.0, 823.0)",AddConnection
+2013-12-10 19:12:34,230,"[ConnectorControl: Id=b9aec270-63ef-4f52-9100-44ce3261a4c0, Node=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active], Charge=Positive]","(1126.0, 625.0)",ReleaseConnector
+2013-12-10 19:12:36,232,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Active, Color=Green]","(1239.0, 671.0)",SelectNode
+2013-12-10 19:12:36,232,,"(1239.0, 671.0)",StartTouch
+2013-12-10 19:12:38,234,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Active, Color=Green]","(1070.0, 817.0)",ReleaseNode
+2013-12-10 19:12:38,234,"[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active]","(863.0, 1000.0)",SelectNode
+2013-12-10 19:12:38,234,,"(863.0, 1000.0)",StartTouch
+2013-12-10 19:12:41,237,"[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active]","(938.0, 1087.0)",ReleaseNode
+2013-12-10 19:12:42,238,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Blue]","(1116.0, 1163.0)",SelectNode
+2013-12-10 19:12:42,238,,"(1116.0, 1163.0)",StartTouch
+2013-12-10 19:12:43,239,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Blue]","(1027.0, 1146.0)",ReleaseNode
+2013-12-10 19:12:43,239,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Blue]","(1043.0, 1124.0)",SelectNode
+2013-12-10 19:12:43,239,,"(1043.0, 1124.0)",StartTouch
+2013-12-10 19:12:45,241,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Blue]","(902.0, 1062.0)",ReleaseNode
+2013-12-10 19:12:45,241,"[Connection: Id=2974cbe7-e257-4fa0-a9aa-b908a02f48b1, Source=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active], Destination=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Blue]]","(894.0, 1043.0)",RemoveConnection
+2013-12-10 19:12:45,241,,"(1064.0, 1027.0)",EndTouch
+2013-12-10 19:12:46,242,,"(1132.0, 898.0)",EndTouch
+2013-12-10 19:12:46,242,,"(1102.0, 1000.0)",EndTouch
+2013-12-10 19:12:47,243,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Grounded, Color=Blue]","(981.0, 1055.0)",SelectNode
+2013-12-10 19:12:47,243,,"(981.0, 1055.0)",StartTouch
+2013-12-10 19:12:48,244,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Grounded, Color=Blue]","(1096.0, 1052.0)",ReleaseNode
+2013-12-10 19:12:48,244,"[ConnectorControl: Id=bfda59fb-1521-425c-aee4-983b20269021, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Grounded, Color=Blue], Charge=Positive]","(1197.0, 1090.0)",SelectConnector
+2013-12-10 19:12:50,246,"[Connection: Id=0fb24e48-dfb0-4780-be60-6e62e89a8c18, Source=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Grounded, Color=Green], Destination=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Grounded, Color=Blue]]","(1108.0, 907.0)",AddConnection
+2013-12-10 19:12:50,246,"[ConnectorControl: Id=bfda59fb-1521-425c-aee4-983b20269021, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Grounded, Color=Blue], Charge=Positive]","(1040.0, 718.0)",ReleaseConnector
+2013-12-10 19:12:52,248,"[ConnectorControl: Id=bfda59fb-1521-425c-aee4-983b20269021, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Grounded, Color=Blue], Charge=Positive]","(1195.0, 1060.0)",SelectConnector
+2013-12-10 19:12:53,249,"[Connection: Id=3e990daf-b0d6-41d3-8b4c-18c8eaefbbed, Source=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active], Destination=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Blue]]","(945.0, 1043.0)",AddConnection
+2013-12-10 19:12:53,249,"[ConnectorControl: Id=bfda59fb-1521-425c-aee4-983b20269021, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Blue], Charge=Positive]","(774.0, 1144.0)",ReleaseConnector
+2013-12-10 19:12:55,251,"[ConnectorControl: Id=e34f5d7c-49d8-498f-872e-38a9d1f2ec65, Node=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Active, Color=Green], Charge=Positive]","(1196.0, 846.0)",SelectConnector
+2013-12-10 19:12:57,253,"[Connection: Id=452e2e61-6ae4-46ae-a5b1-91e5b6d0edad, Source=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active], Destination=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Active, Color=Green]]","(954.0, 901.0)",AddConnection
+2013-12-10 19:12:57,253,"[ConnectorControl: Id=e34f5d7c-49d8-498f-872e-38a9d1f2ec65, Node=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Active, Color=Green], Charge=Positive]","(794.0, 1136.0)",ReleaseConnector
+2013-12-10 19:13:00,256,"[ConnectorControl: Id=bd66a6c1-ad37-4fda-8682-3d2e535e703a, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Red], Charge=Positive]","(733.0, 696.0)",SelectConnector
+2013-12-10 19:13:01,257,"[ConnectorControl: Id=bd66a6c1-ad37-4fda-8682-3d2e535e703a, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Red], Charge=Positive]","(817.0, 956.0)",ReleaseConnector
+2013-12-10 19:13:02,258,"[ConnectorControl: Id=bd66a6c1-ad37-4fda-8682-3d2e535e703a, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Red], Charge=Positive]","(746.0, 711.0)",SelectConnector
+2013-12-10 19:13:03,259,"[ConnectorControl: Id=bd66a6c1-ad37-4fda-8682-3d2e535e703a, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Red], Charge=Positive]","(793.0, 1152.0)",ReleaseConnector
+2013-12-10 19:13:04,260,"[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Red]","(752.0, 713.0)",SelectNode
+2013-12-10 19:13:04,260,,"(752.0, 713.0)",StartTouch
+2013-12-10 19:13:05,261,"[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Red]","(823.0, 763.0)",ReleaseNode
+2013-12-10 19:13:06,262,"[ConnectorControl: Id=bd66a6c1-ad37-4fda-8682-3d2e535e703a, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Red], Charge=Positive]","(739.0, 755.0)",SelectConnector
+2013-12-10 19:13:08,264,"[Connection: Id=33e7105d-cf63-4a8b-b630-983f2a107cca, Source=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active], Destination=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Red]]","(800.0, 940.0)",AddConnection
+2013-12-10 19:13:08,264,"[ConnectorControl: Id=bd66a6c1-ad37-4fda-8682-3d2e535e703a, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Red], Charge=Positive]","(801.0, 1201.0)",ReleaseConnector
+2013-12-10 19:13:10,266,"[ConnectorControl: Id=7abb03f8-d403-4897-a68e-ddf52cc60585, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Red], Charge=Negative]","(916.0, 786.0)",SelectConnector
+2013-12-10 19:13:11,267,"[Connection: Id=4172798a-5901-4d3f-b3ea-f5800387008b, Source=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Red], Destination=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Blue]]","(962.0, 905.0)",AddConnection
+2013-12-10 19:13:11,267,"[ConnectorControl: Id=7abb03f8-d403-4897-a68e-ddf52cc60585, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Red], Charge=Negative]","(1193.0, 1092.0)",ReleaseConnector
+2013-12-10 19:13:17,273,,"(2023.0, 1419.0)",EndTouch
+2013-12-10 19:13:17,273,TurnOff,"(6.0, 4.0)",ToggleScoreCard
+2013-12-10 19:13:23,279,,"(1677.0, 1420.0)",DismissScoreCard
+2013-12-10 19:13:23,279,,"(1669.0, 1391.0)",EndTouch
+2013-12-10 19:13:26,282,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Active, Color=Green]","(1135.0, 807.0)",SelectNode
+2013-12-10 19:13:26,282,,"(1135.0, 807.0)",StartTouch
+2013-12-10 19:13:26,282,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Active, Color=Green]","(1206.0, 768.0)",ReleaseNode
+2013-12-10 19:13:27,283,"[Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, From=Green, To=Red]","(1203.0, 772.0)",ChangeLEDColor
+2013-12-10 19:13:27,283,,"(1058.0, 770.0)",EndTouch
+2013-12-10 19:13:30,286,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Blue, To=Red]","(1099.0, 1050.0)",ChangeLEDColor
+2013-12-10 19:13:30,286,,"(962.0, 1128.0)",EndTouch
+2013-12-10 19:13:33,289,"[Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, From=Red, To=Blue]","(825.0, 759.0)",ChangeLEDColor
+2013-12-10 19:13:33,289,,"(767.0, 641.0)",EndTouch
+2013-12-10 19:13:33,289,"[Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, From=Red, To=Blue]","(1203.0, 772.0)",ChangeLEDColor
+2013-12-10 19:13:33,289,,"(1214.0, 947.0)",EndTouch
+2013-12-10 19:13:36,292,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Red, To=Blue]","(1099.0, 1050.0)",ChangeLEDColor
+2013-12-10 19:13:36,292,,"(1177.0, 1178.0)",EndTouch
+2013-12-10 19:13:39,295,TurnOff,"(6.0, 4.0)",ToggleScoreCard
+2013-12-10 19:13:40,296,,"(1677.0, 1420.0)",DismissScoreCard
+2013-12-10 19:13:40,296,,"(1651.0, 1464.0)",EndTouch
+2013-12-10 19:13:45,301,"[Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, From=Blue, To=Red]","(825.0, 759.0)",ChangeLEDColor
+2013-12-10 19:13:45,301,,"(956.0, 692.0)",EndTouch
+2013-12-10 19:13:46,302,"[Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, From=Blue, To=Red]","(1203.0, 772.0)",ChangeLEDColor
+2013-12-10 19:13:47,303,"[Connection: Id=e3bdcb12-1f1b-46bd-86d8-edec7f04c7cd, Source=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Red], Destination=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Active, Color=Red]]","(1014.0, 765.0)",RemoveConnection
+2013-12-10 19:13:47,303,"[Connection: Id=c01e6c35-1d26-4a09-8249-5510fbb77872, Source=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Active, Color=Red], Destination=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active]]","(989.0, 947.0)",RemoveConnection
+2013-12-10 19:13:47,303,,"(1055.0, 800.0)",EndTouch
+2013-12-10 19:13:50,306,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Blue, To=Red]","(1099.0, 1050.0)",ChangeLEDColor
+2013-12-10 19:13:50,306,,"(968.0, 1116.0)",EndTouch
+2013-12-10 19:14:03,319,"[Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, From=Red, To=Blue]","(825.0, 759.0)",ChangeLEDColor
+2013-12-10 19:14:03,319,,"(738.0, 614.0)",EndTouch
+2013-12-10 19:14:05,321,"[Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, From=Red, To=Blue]","(1203.0, 772.0)",ChangeLEDColor
+2013-12-10 19:14:05,321,,"(1207.0, 928.0)",EndTouch
+2013-12-10 19:14:08,324,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Red, To=Blue]","(1099.0, 1050.0)",ChangeLEDColor
+2013-12-10 19:14:08,324,,"(1183.0, 1186.0)",EndTouch
+2013-12-10 19:14:13,329,"[Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, From=Blue, To=Green]","(1203.0, 772.0)",ChangeLEDColor
+2013-12-10 19:14:13,329,,"(1085.0, 886.0)",EndTouch
+2013-12-10 19:14:14,330,"[Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, From=Blue, To=Green]","(825.0, 759.0)",ChangeLEDColor
+2013-12-10 19:14:14,330,,"(865.0, 612.0)",EndTouch
+2013-12-10 19:14:14,330,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Blue, To=Green]","(1099.0, 1050.0)",ChangeLEDColor
+2013-12-10 19:14:14,330,,"(1067.0, 1201.0)",EndTouch
+2013-12-10 19:14:21,337,TurnOff,"(6.0, 4.0)",ToggleScoreCard
+2013-12-10 19:14:25,341,,"(1677.0, 1420.0)",DismissScoreCard
+2013-12-10 19:14:25,341,,"(1683.0, 1401.0)",EndTouch
+2013-12-10 19:14:28,344,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Green, To=Red]","(1099.0, 1050.0)",ChangeLEDColor
+2013-12-10 19:14:28,344,,"(955.0, 1123.0)",EndTouch
+2013-12-10 19:14:29,345,"[Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, From=Green, To=Red]","(1203.0, 772.0)",ChangeLEDColor
+2013-12-10 19:14:29,345,,"(1050.0, 789.0)",EndTouch
+2013-12-10 19:14:31,347,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Red, To=Green]","(1099.0, 1050.0)",ChangeLEDColor
+2013-12-10 19:14:31,347,,"(1069.0, 1221.0)",EndTouch
+2013-12-10 19:14:33,349,"[Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, From=Red, To=Blue]","(1203.0, 772.0)",ChangeLEDColor
+2013-12-10 19:14:33,349,,"(1218.0, 931.0)",EndTouch
+2013-12-10 19:14:34,350,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Green, To=Blue]","(1099.0, 1050.0)",ChangeLEDColor
+2013-12-10 19:14:34,350,,"(1171.0, 1176.0)",EndTouch
+2013-12-10 19:14:37,353,"[Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, From=Green, To=Blue]","(825.0, 759.0)",ChangeLEDColor
+2013-12-10 19:14:37,353,,"(754.0, 640.0)",EndTouch
+2013-12-10 19:14:41,357,"[Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, From=Blue, To=Green]","(1203.0, 772.0)",ChangeLEDColor
+2013-12-10 19:14:41,357,,"(1079.0, 854.0)",EndTouch
+2013-12-10 19:14:42,358,"[Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, From=Blue, To=Green]","(825.0, 759.0)",ChangeLEDColor
+2013-12-10 19:14:42,358,,"(860.0, 598.0)",EndTouch
+2013-12-10 19:14:47,363,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Blue, To=Green]","(1099.0, 1050.0)",ChangeLEDColor
+2013-12-10 19:14:47,363,,"(1049.0, 1208.0)",EndTouch
+2013-12-10 19:14:55,371,TurnOff,"(6.0, 4.0)",ToggleScoreCard
+2013-12-10 19:14:58,374,,"(1677.0, 1420.0)",DismissScoreCard
+2013-12-10 19:14:58,374,,"(1699.0, 1434.0)",EndTouch
+2013-12-10 19:15:04,380,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Green, To=Blue]","(1099.0, 1050.0)",ChangeLEDColor
+2013-12-10 19:15:04,380,,"(1164.0, 1186.0)",EndTouch
+2013-12-10 19:15:06,382,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Blue, To=Red]","(1099.0, 1050.0)",ChangeLEDColor
+2013-12-10 19:15:06,382,,"(980.0, 1114.0)",EndTouch
+2013-12-10 19:15:07,383,"[Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, From=Green, To=Red]","(1203.0, 772.0)",ChangeLEDColor
+2013-12-10 19:15:07,383,,"(1056.0, 787.0)",EndTouch
+2013-12-10 19:15:07,383,"[Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, From=Green, To=Red]","(825.0, 759.0)",ChangeLEDColor
+2013-12-10 19:15:07,383,,"(966.0, 697.0)",EndTouch
+2013-12-10 19:15:08,384,"[Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, From=Red, To=Blue]","(825.0, 759.0)",ChangeLEDColor
+2013-12-10 19:15:08,384,,"(762.0, 642.0)",EndTouch
+2013-12-10 19:15:11,387,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Red, To=Blue]","(1099.0, 1050.0)",ChangeLEDColor
+2013-12-10 19:15:11,387,,"(1180.0, 1186.0)",EndTouch
+2013-12-10 19:15:12,388,"[Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, From=Red, To=Blue]","(1203.0, 772.0)",ChangeLEDColor
+2013-12-10 19:15:12,388,,"(1207.0, 938.0)",EndTouch
+2013-12-10 19:15:14,390,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Blue, To=Red]","(1099.0, 1050.0)",ChangeLEDColor
+2013-12-10 19:15:14,390,,"(966.0, 1123.0)",EndTouch
+2013-12-10 19:15:15,391,"[Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, From=Blue, To=Red]","(1203.0, 772.0)",ChangeLEDColor
+2013-12-10 19:15:15,391,,"(1059.0, 794.0)",EndTouch
+2013-12-10 19:15:18,394,"[Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, From=Blue, To=Green]","(825.0, 759.0)",ChangeLEDColor
+2013-12-10 19:15:18,394,,"(870.0, 614.0)",EndTouch
+2013-12-10 19:15:22,398,"[Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, From=Red, To=Green]","(1203.0, 772.0)",ChangeLEDColor
+2013-12-10 19:15:22,398,,"(1084.0, 872.0)",EndTouch
+2013-12-10 19:15:25,401,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Red, To=Blue]","(1099.0, 1050.0)",ChangeLEDColor
+2013-12-10 19:15:25,401,,"(1166.0, 1211.0)",EndTouch
+2013-12-10 19:15:25,401,"[Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, From=Green, To=Blue]","(825.0, 759.0)",ChangeLEDColor
+2013-12-10 19:15:25,401,,"(757.0, 639.0)",EndTouch
+2013-12-10 19:15:26,402,"[Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, From=Green, To=Blue]","(1203.0, 772.0)",ChangeLEDColor
+2013-12-10 19:15:26,402,,"(1232.0, 935.0)",EndTouch
+2013-12-10 19:15:31,407,TurnOff,"(6.0, 4.0)",ToggleScoreCard
+2013-12-10 19:15:33,409,,"(1677.0, 1420.0)",DismissScoreCard
+2013-12-10 19:15:33,409,,"(1712.0, 1479.0)",EndTouch
+2013-12-10 19:15:41,417,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Blue]","(1085.0, 1070.0)",SelectNode
+2013-12-10 19:15:41,417,,"(1085.0, 1070.0)",StartTouch
+2013-12-10 19:15:41,417,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Blue]","(1293.0, 1223.0)",ReleaseNode
+2013-12-10 19:15:42,418,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Blue]","(1323.0, 1215.0)",SelectNode
+2013-12-10 19:15:42,418,,"(1323.0, 1215.0)",StartTouch
+2013-12-10 19:15:43,419,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Blue]","(1376.0, 1297.0)",ReleaseNode
+2013-12-10 19:15:43,419,"[Connection: Id=d9a2f6f3-4e55-4817-a559-46344575d959, Source=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Blue], Destination=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active]]","(1032.0, 1175.0)",RemoveConnection
+2013-12-10 19:15:43,419,"[Connection: Id=0fb24e48-dfb0-4780-be60-6e62e89a8c18, Source=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Charged, Color=Blue], Destination=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Blue]]","(1247.0, 1000.0)",RemoveConnection
+2013-12-10 19:15:43,419,,"(1198.0, 1152.0)",EndTouch
+2013-12-10 19:15:44,420,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Blue]","(1305.0, 1279.0)",SelectNode
+2013-12-10 19:15:44,420,,"(1305.0, 1279.0)",StartTouch
+2013-12-10 19:15:45,421,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Blue]","(1269.0, 1310.0)",ReleaseNode
+2013-12-10 19:15:45,421,,"(1306.0, 1178.0)",EndTouch
+2013-12-10 19:15:46,422,"[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=None]","(819.0, 1149.0)",SelectNode
+2013-12-10 19:15:46,422,,"(819.0, 1149.0)",StartTouch
+2013-12-10 19:15:47,423,"[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=None]","(1064.0, 1018.0)",ReleaseNode
+2013-12-10 19:15:48,424,"[Connection: Id=674dd73d-7f39-4793-b425-57b431d5fbc7, Source=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Blue], Destination=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Charged, Color=Blue]]","(1246.0, 1008.0)",RemoveConnection
+2013-12-10 19:15:48,424,"[Connection: Id=3e990daf-b0d6-41d3-8b4c-18c8eaefbbed, Source=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=None], Destination=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Blue]]","(1183.0, 1126.0)",RemoveConnection
+2013-12-10 19:15:48,424,"[Connection: Id=4172798a-5901-4d3f-b3ea-f5800387008b, Source=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Charged, Color=Blue], Destination=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Blue]]","(1057.0, 1002.0)",RemoveConnection
+2013-12-10 19:15:48,424,,"(1401.0, 1176.0)",EndTouch
+2013-12-10 19:15:48,424,,"(1200.0, 1191.0)",EndTouch
+2013-12-10 19:15:49,425,,"(1295.0, 1292.0)",EndTouch
+2013-12-10 19:15:49,425,,"(1288.0, 1171.0)",EndTouch
+2013-12-10 19:15:50,426,,"(1374.0, 1330.0)",EndTouch
+2013-12-10 19:15:50,426,,"(1273.0, 1126.0)",EndTouch
+2013-12-10 19:15:50,426,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=None, Color=Blue]","(1295.0, 1256.0)",SelectNode
+2013-12-10 19:15:50,426,,"(1295.0, 1256.0)",StartTouch
+2013-12-10 19:15:52,428,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=None, Color=Blue]","(1200.0, 1321.0)",ReleaseNode
+2013-12-10 19:15:52,428,,"(1370.0, 1279.0)",EndTouch
+2013-12-10 19:15:53,429,,"(1334.0, 1203.0)",EndTouch
+2013-12-10 19:15:53,429,,"(1267.0, 1368.0)",EndTouch
+2013-12-10 19:15:53,429,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=None, Color=Blue]","(1288.0, 1329.0)",SelectNode
+2013-12-10 19:15:53,429,,"(1288.0, 1329.0)",StartTouch
+2013-12-10 19:15:56,432,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=None, Color=Blue]","(1370.0, 1114.0)",ReleaseNode
+2013-12-10 19:15:56,432,,"(1250.0, 977.0)",EndTouch
+2013-12-10 19:15:56,432,"[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=None]","(1095.0, 1041.0)",SelectNode
+2013-12-10 19:15:56,432,,"(1095.0, 1041.0)",StartTouch
+2013-12-10 19:16:01,437,"[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=None]","(1401.0, 1026.0)",ReleaseNode
+2013-12-10 19:16:01,437,,"(1287.0, 1187.0)",EndTouch
+2013-12-10 19:16:04,440,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=None, Color=Blue]","(1308.0, 963.0)",SelectNode
+2013-12-10 19:16:04,440,,"(1308.0, 963.0)",StartTouch
+2013-12-10 19:16:05,441,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=None, Color=Blue]","(1496.0, 846.0)",ReleaseNode
+2013-12-10 19:16:06,442,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Charged, Color=Blue]","(1251.0, 766.0)",SelectNode
+2013-12-10 19:16:06,442,,"(1251.0, 766.0)",StartTouch
+2013-12-10 19:16:08,444,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Charged, Color=Blue]","(1685.0, 915.0)",ReleaseNode
+2013-12-10 19:16:08,444,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Charged, Color=Blue]","(1743.0, 937.0)",SelectNode
+2013-12-10 19:16:08,444,,"(1743.0, 937.0)",StartTouch
+2013-12-10 19:16:13,449,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Charged, Color=Blue]","(1566.0, 968.0)",ReleaseNode
+2013-12-10 19:16:13,449,,"(1514.0, 797.0)",EndTouch
+2013-12-10 19:16:13,449,,"(1523.0, 1034.0)",EndTouch
+2013-12-10 19:16:14,450,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=None, Color=Blue]","(1464.0, 723.0)",SelectNode
+2013-12-10 19:16:14,450,,"(1464.0, 723.0)",StartTouch
+2013-12-10 19:16:15,451,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=None, Color=Blue]","(1234.0, 672.0)",ReleaseNode
+2013-12-10 19:16:15,451,"[ConnectorControl: Id=bfda59fb-1521-425c-aee4-983b20269021, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=None, Color=Blue], Charge=Positive]","(1349.0, 674.0)",SelectConnector
+2013-12-10 19:16:16,452,"[Connection: Id=441bf93e-5a20-4e22-98db-e665b1a72f08, Source=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Charged, Color=Blue], Destination=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Blue]]","(1389.0, 786.0)",AddConnection
+2013-12-10 19:16:16,452,"[ConnectorControl: Id=bfda59fb-1521-425c-aee4-983b20269021, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Blue], Charge=Positive]","(1506.0, 826.0)",ReleaseConnector
+2013-12-10 19:16:17,453,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Blue]","(1164.0, 669.0)",SelectNode
+2013-12-10 19:16:17,453,,"(1164.0, 669.0)",StartTouch
+2013-12-10 19:16:18,454,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Blue]","(1260.0, 671.0)",ReleaseNode
+2013-12-10 19:16:18,454,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Blue], Charge=Negative]","(1168.0, 684.0)",SelectConnector
+2013-12-10 19:16:20,456,"[Connection: Id=d1c71495-0e97-417c-88ef-8d5030f8ee94, Source=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Blue], Destination=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Charged, Color=Blue]]","(1038.0, 715.0)",AddConnection
+2013-12-10 19:16:20,456,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Blue], Charge=Negative]","(744.0, 751.0)",ReleaseConnector
+2013-12-10 19:16:24,460,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Blue], Charge=Negative]","(1161.0, 663.0)",SelectConnector
+2013-12-10 19:16:25,461,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Blue], Charge=Negative]","(1250.0, 1245.0)",ReleaseConnector
+2013-12-10 19:16:26,462,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Blue], Charge=Negative]","(1170.0, 660.0)",SelectConnector
+2013-12-10 19:16:26,462,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Blue], Charge=Negative]","(1956.0, 825.0)",ReleaseConnector
+2013-12-10 19:16:26,462,"[Connection: Id=973b59ed-2f8f-4889-9b55-ac83a791dab8, Source=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Charged, Color=Blue], Destination=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Charged, Color=Blue]]","(1180.0, 830.0)",RemoveConnection
+2013-12-10 19:16:26,462,"[Connection: Id=33e7105d-cf63-4a8b-b630-983f2a107cca, Source=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=None], Destination=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Charged, Color=Blue]]","(1082.0, 966.0)",RemoveConnection
+2013-12-10 19:16:26,462,"[Connection: Id=d1c71495-0e97-417c-88ef-8d5030f8ee94, Source=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Blue], Destination=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Charged, Color=Blue]]","(1038.0, 715.0)",RemoveConnection
+2013-12-10 19:16:26,462,,"(1272.0, 1239.0)",EndTouch
+2013-12-10 19:16:27,463,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Blue]","(1195.0, 673.0)",SelectNode
+2013-12-10 19:16:27,463,,"(1195.0, 673.0)",StartTouch
+2013-12-10 19:16:27,463,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Blue]","(1285.0, 720.0)",ReleaseNode
+2013-12-10 19:16:28,464,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Blue], Charge=Negative]","(1199.0, 733.0)",SelectConnector
+2013-12-10 19:16:29,465,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Blue], Charge=Negative]","(1180.0, 766.0)",ReleaseConnector
+2013-12-10 19:16:29,465,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Blue]","(1238.0, 762.0)",SelectNode
+2013-12-10 19:16:29,465,,"(1238.0, 762.0)",StartTouch
+2013-12-10 19:16:30,466,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Blue]","(1248.0, 552.0)",ReleaseNode
+2013-12-10 19:16:31,467,,"(1316.0, 482.0)",EndTouch
+2013-12-10 19:16:31,467,,"(1270.0, 630.0)",EndTouch
+2013-12-10 19:16:31,467,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Blue]","(1242.0, 574.0)",SelectNode
+2013-12-10 19:16:31,467,,"(1242.0, 574.0)",StartTouch
+2013-12-10 19:16:32,468,"[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Charged, Color=Blue]","(1278.0, 431.0)",ReleaseNode
+2013-12-10 19:16:32,468,,"(1237.0, 580.0)",EndTouch
+2013-12-10 19:16:33,469,"[ConnectorControl: Id=e34f5d7c-49d8-498f-872e-38a9d1f2ec65, Node=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Charged, Color=Blue], Charge=Positive]","(1579.0, 986.0)",SelectConnector
+2013-12-10 19:16:33,469,"[ConnectorControl: Id=e34f5d7c-49d8-498f-872e-38a9d1f2ec65, Node=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Charged, Color=Blue], Charge=Positive]","(1581.0, 815.0)",ReleaseConnector
+2013-12-10 19:16:33,469,,"(1574.0, 980.0)",EndTouch
+2013-12-10 19:16:34,470,"[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=None]","(1362.0, 1223.0)",SelectNode
+2013-12-10 19:16:34,470,,"(1362.0, 1223.0)",StartTouch
+2013-12-10 19:16:36,472,"[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=None]","(1107.0, 1372.0)",ReleaseNode
+2013-12-10 19:16:36,472,"[Connection: Id=452e2e61-6ae4-46ae-a5b1-91e5b6d0edad, Source=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=None], Destination=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Charged, Color=Blue]]","(1309.0, 1083.0)",RemoveConnection
+2013-12-10 19:16:36,472,,"(1033.0, 1178.0)",EndTouch
+2013-12-10 19:16:36,472,"[ConnectorControl: Id=e34f5d7c-49d8-498f-872e-38a9d1f2ec65, Node=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Blue], Charge=Positive]","(1572.0, 992.0)",SelectConnector
+2013-12-10 19:16:37,473,"[ConnectorControl: Id=e34f5d7c-49d8-498f-872e-38a9d1f2ec65, Node=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Blue], Charge=Positive]","(1568.0, 818.0)",ReleaseConnector
+2013-12-10 19:16:37,473,,"(1514.0, 991.0)",EndTouch
+2013-12-10 19:16:37,473,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Blue]","(1577.0, 931.0)",SelectNode
+2013-12-10 19:16:37,473,,"(1577.0, 931.0)",StartTouch
+2013-12-10 19:16:39,475,"[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=None, Color=Blue]","(1559.0, 997.0)",ReleaseNode
+2013-12-10 19:16:39,475,,"(1596.0, 823.0)",EndTouch
+2013-12-10 19:16:40,476,,"(827.0, 951.0)",EndTouch
+2013-12-10 19:16:40,476,"[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Blue]","(824.0, 776.0)",SelectNode
+2013-12-10 19:16:40,476,,"(824.0, 776.0)",StartTouch
+2013-12-10 19:16:42,478,"[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Blue]","(736.0, 830.0)",ReleaseNode
+2013-12-10 19:16:42,478,,"(770.0, 1046.0)",EndTouch
+2013-12-10 19:16:42,478,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=None, Color=Blue], Charge=Negative]","(1174.0, 530.0)",SelectConnector
+2013-12-10 19:16:43,479,"[Connection: Id=03efec27-46de-4dcc-a155-cca94265c75e, Source=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=None, Color=Blue], Destination=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Blue]]","(1007.0, 722.0)",AddConnection
+2013-12-10 19:16:43,479,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=None, Color=Blue], Charge=Negative]","(764.0, 881.0)",ReleaseConnector
+2013-12-10 19:16:44,480,"[ConnectorControl: Id=7abb03f8-d403-4897-a68e-ddf52cc60585, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=None, Color=Blue], Charge=Negative]","(749.0, 1025.0)",SelectConnector
+2013-12-10 19:16:45,481,"[Connection: Id=54de144e-bf77-45ba-9486-47bf5f127c7f, Source=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Grounded, Color=Blue], Destination=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=None]]","(917.0, 1103.0)",AddConnection
+2013-12-10 19:16:45,481,"[ConnectorControl: Id=7abb03f8-d403-4897-a68e-ddf52cc60585, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Grounded, Color=Blue], Charge=Negative]","(1009.0, 1269.0)",ReleaseConnector
+2013-12-10 19:16:46,482,"[ConnectorControl: Id=ec4f1e53-336c-4b76-bf21-e06a6075f954, Node=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=None], Charge=Negative]","(1158.0, 1274.0)",SelectConnector
+2013-12-10 19:16:47,483,"[Connection: Id=7043c706-1122-4bfc-9859-6bce927fcc54, Source=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active], Destination=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Active, Color=Blue]]","(1324.0, 1089.0)",AddConnection
+2013-12-10 19:16:47,483,"[ConnectorControl: Id=ec4f1e53-336c-4b76-bf21-e06a6075f954, Node=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active], Charge=Negative]","(1576.0, 1018.0)",ReleaseConnector
+2013-12-10 19:16:48,484,"[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active]","(1074.0, 1269.0)",SelectNode
+2013-12-10 19:16:48,484,,"(1074.0, 1269.0)",StartTouch
+2013-12-10 19:16:48,484,"[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active]","(1204.0, 1264.0)",ReleaseNode
+2013-12-10 19:16:51,487,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Blue, To=Green]","(1255.0, 506.0)",ChangeLEDColor
+2013-12-10 19:16:51,487,,"(1257.0, 684.0)",EndTouch
+2013-12-10 19:16:52,488,"[Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, From=Blue, To=Green]","(1574.0, 910.0)",ChangeLEDColor
+2013-12-10 19:16:52,488,,"(1409.0, 937.0)",EndTouch
+2013-12-10 19:16:52,488,"[Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, From=Blue, To=Green]","(758.0, 938.0)",ChangeLEDColor
+2013-12-10 19:16:52,488,,"(910.0, 934.0)",EndTouch
+2013-12-10 19:16:56,492,"[Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, From=Green, To=Red]","(1574.0, 910.0)",ChangeLEDColor
+2013-12-10 19:16:56,492,,"(1462.0, 792.0)",EndTouch
+2013-12-10 19:16:56,492,,"(1130.0, 642.0)",EndTouch
+2013-12-10 19:16:57,493,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Green, To=Red]","(1255.0, 506.0)",ChangeLEDColor
+2013-12-10 19:16:57,493,,"(1153.0, 587.0)",EndTouch
+2013-12-10 19:17:01,497,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Red, To=Blue]","(1255.0, 506.0)",ChangeLEDColor
+2013-12-10 19:17:01,497,,"(1353.0, 615.0)",EndTouch
+2013-12-10 19:17:02,498,"[Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, From=Red, To=Blue]","(1574.0, 910.0)",ChangeLEDColor
+2013-12-10 19:17:02,498,,"(1455.0, 1027.0)",EndTouch
+2013-12-10 19:17:03,499,"[Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, From=Green, To=Blue]","(758.0, 938.0)",ChangeLEDColor
+2013-12-10 19:17:03,499,,"(879.0, 845.0)",EndTouch
+2013-12-10 19:17:06,502,"[Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, From=Blue, To=Green]","(1574.0, 910.0)",ChangeLEDColor
+2013-12-10 19:17:06,502,,"(1432.0, 904.0)",EndTouch
+2013-12-10 19:17:09,505,"[Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, From=Blue, To=Red]","(758.0, 938.0)",ChangeLEDColor
+2013-12-10 19:17:09,505,,"(865.0, 1057.0)",EndTouch
+2013-12-10 19:17:09,505,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Blue, To=Red]","(1255.0, 506.0)",ChangeLEDColor
+2013-12-10 19:17:09,505,,"(1162.0, 613.0)",EndTouch
+2013-12-10 19:17:15,511,TurnOff,"(6.0, 4.0)",ToggleScoreCard
+2013-12-10 19:17:20,516,,"(1677.0, 1420.0)",DismissScoreCard
+2013-12-10 19:17:20,516,,"(1678.0, 1445.0)",EndTouch
+2013-12-10 19:17:24,520,,"(642.0, 413.0)",EndTouch
+2013-12-10 19:17:34,530,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Red, To=Blue]","(1255.0, 506.0)",ChangeLEDColor
+2013-12-10 19:17:34,530,,"(1369.0, 627.0)",EndTouch
+2013-12-10 19:17:36,532,"[Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, From=Green, To=Blue]","(1574.0, 910.0)",ChangeLEDColor
+2013-12-10 19:17:36,532,,"(1479.0, 1016.0)",EndTouch
+2013-12-10 19:17:37,533,,"(912.0, 844.0)",EndTouch
+2013-12-10 19:17:38,534,"[Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, From=Red, To=Blue]","(758.0, 938.0)",ChangeLEDColor
+2013-12-10 19:17:38,534,,"(879.0, 818.0)",EndTouch
+2013-12-10 19:17:41,537,"[Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, From=Blue, To=Green]","(1574.0, 910.0)",ChangeLEDColor
+2013-12-10 19:17:41,537,,"(1412.0, 925.0)",EndTouch
+2013-12-10 19:17:42,538,"[Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, From=Blue, To=Green]","(758.0, 938.0)",ChangeLEDColor
+2013-12-10 19:17:42,538,,"(908.0, 955.0)",EndTouch
+2013-12-10 19:17:43,539,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Blue, To=Green]","(1255.0, 506.0)",ChangeLEDColor
+2013-12-10 19:17:43,539,,"(1255.0, 671.0)",EndTouch
+2013-12-10 19:17:47,543,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Green, To=Red]","(1255.0, 506.0)",ChangeLEDColor
+2013-12-10 19:17:47,543,,"(1148.0, 598.0)",EndTouch
+2013-12-10 19:17:51,547,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Red, To=Blue]","(1255.0, 506.0)",ChangeLEDColor
+2013-12-10 19:17:51,547,,"(1363.0, 649.0)",EndTouch
+2013-12-10 19:17:51,547,"[Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, From=Green, To=Blue]","(1574.0, 910.0)",ChangeLEDColor
+2013-12-10 19:17:51,547,,"(1462.0, 1018.0)",EndTouch
+2013-12-10 19:17:52,548,"[Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, From=Green, To=Blue]","(758.0, 938.0)",ChangeLEDColor
+2013-12-10 19:17:52,548,,"(880.0, 859.0)",EndTouch
+2013-12-10 19:17:55,551,"[Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, From=Blue, To=Red]","(1574.0, 910.0)",ChangeLEDColor
+2013-12-10 19:17:55,551,,"(1471.0, 805.0)",EndTouch
+2013-12-10 19:17:57,553,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Blue, To=Green]","(1255.0, 506.0)",ChangeLEDColor
+2013-12-10 19:17:57,553,,"(1263.0, 674.0)",EndTouch
+2013-12-10 19:17:57,553,"[Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, From=Blue, To=Green]","(758.0, 938.0)",ChangeLEDColor
+2013-12-10 19:17:57,553,,"(942.0, 942.0)",EndTouch
+2013-12-10 19:18:02,558,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Green, To=Red]","(1255.0, 506.0)",ChangeLEDColor
+2013-12-10 19:18:02,558,,"(1166.0, 590.0)",EndTouch
+2013-12-10 19:18:29,585,"[Connection: Id=54de144e-bf77-45ba-9486-47bf5f127c7f, Source=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Green], Destination=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active]]","(982.0, 1101.0)",RemoveConnection
+2013-12-10 19:18:29,585,,"(877.0, 1061.0)",EndTouch
+2013-12-10 19:18:30,586,,"(866.0, 1005.0)",EndTouch
+2013-12-10 19:18:30,586,"[Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, From=Green, To=Red]","(758.0, 938.0)",ChangeLEDColor
+2013-12-10 19:18:30,586,,"(864.0, 1050.0)",EndTouch
+2013-12-10 19:18:31,587,,"(946.0, 1269.0)",EndTouch
+2013-12-10 19:18:31,587,"[ConnectorControl: Id=7abb03f8-d403-4897-a68e-ddf52cc60585, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Charged, Color=Red], Charge=Negative]","(787.0, 1032.0)",SelectConnector
+2013-12-10 19:18:33,589,"[Connection: Id=f9e2fa8c-74f2-4743-acc1-b13e7c6608aa, Source=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Red], Destination=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active]]","(982.0, 1101.0)",AddConnection
+2013-12-10 19:18:33,589,"[ConnectorControl: Id=7abb03f8-d403-4897-a68e-ddf52cc60585, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Red], Charge=Negative]","(1112.0, 1270.0)",ReleaseConnector
+2013-12-10 19:18:34,590,"[Connection: Id=f9e2fa8c-74f2-4743-acc1-b13e7c6608aa, Source=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Red], Destination=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active]]","(982.0, 1101.0)",RemoveConnection
+2013-12-10 19:18:34,590,,"(957.0, 1045.0)",EndTouch
+2013-12-10 19:18:34,590,"[ConnectorControl: Id=7abb03f8-d403-4897-a68e-ddf52cc60585, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Charged, Color=Red], Charge=Negative]","(757.0, 1022.0)",SelectConnector
+2013-12-10 19:18:37,593,"[Connection: Id=dc78f612-a385-452d-935e-04f74b5412fe, Source=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Charged, Color=Red], Destination=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Charged, Color=Red]]","(1166.0, 924.0)",AddConnection
+2013-12-10 19:18:37,593,"[ConnectorControl: Id=7abb03f8-d403-4897-a68e-ddf52cc60585, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Charged, Color=Red], Charge=Negative]","(1579.0, 1002.0)",ReleaseConnector
+2013-12-10 19:18:38,594,,"(1049.0, 1255.0)",EndTouch
+2013-12-10 19:18:38,594,"[ConnectorControl: Id=7abb03f8-d403-4897-a68e-ddf52cc60585, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Charged, Color=Red], Charge=Negative]","(761.0, 1039.0)",SelectConnector
+2013-12-10 19:18:39,595,"[Connection: Id=93773186-91e7-4edc-aaca-1bac8777ca09, Source=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Red], Destination=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active]]","(982.0, 1101.0)",AddConnection
+2013-12-10 19:18:40,596,"[ConnectorControl: Id=7abb03f8-d403-4897-a68e-ddf52cc60585, Node=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Red], Charge=Negative]","(1143.0, 1261.0)",ReleaseConnector
+2013-12-10 19:18:41,597,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red], Charge=Negative]","(1176.0, 485.0)",SelectConnector
+2013-12-10 19:18:45,601,"[Connection: Id=2b0e3d5e-e734-4b70-af56-246f9544ea1b, Source=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red], Destination=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active]]","(1230.0, 885.0)",AddConnection
+2013-12-10 19:18:45,601,"[ConnectorControl: Id=7e2c75ba-869a-4377-9918-a06385d740b6, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red], Charge=Negative]","(1098.0, 1237.0)",ReleaseConnector
+2013-12-10 19:18:46,602,"[ConnectorControl: Id=bfda59fb-1521-425c-aee4-983b20269021, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red], Charge=Positive]","(1366.0, 520.0)",SelectConnector
+2013-12-10 19:18:48,604,"[Connection: Id=23ee033d-8f7f-4672-9f18-1252df4139a4, Source=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active], Destination=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red]]","(1230.0, 885.0)",AddConnection
+2013-12-10 19:18:48,604,"[ConnectorControl: Id=bfda59fb-1521-425c-aee4-983b20269021, Node=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Red], Charge=Positive]","(1302.0, 1280.0)",ReleaseConnector
+2013-12-10 19:18:49,605,"[ConnectorControl: Id=2342b1cc-d8f9-4d27-8234-6f0cdcea97aa, Node=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Active, Color=Red], Charge=Negative]","(1574.0, 807.0)",SelectConnector
+2013-12-10 19:18:51,607,"[Connection: Id=bf9eb794-ba3f-4761-8242-0d51bbab6e9c, Source=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Active, Color=Red], Destination=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Red]]","(1166.0, 924.0)",AddConnection
+2013-12-10 19:18:51,607,"[ConnectorControl: Id=2342b1cc-d8f9-4d27-8234-6f0cdcea97aa, Node=[LEDNode: Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, PowerState=Active, Color=Red], Charge=Negative]","(752.0, 854.0)",ReleaseConnector
+2013-12-10 19:18:58,614,"[Id=6af0b4c2-0d50-4b2e-8669-dd9ca1264613, From=Red, To=Blue]","(1574.0, 910.0)",ChangeLEDColor
+2013-12-10 19:18:58,614,,"(1463.0, 1000.0)",EndTouch
+2013-12-10 19:18:59,615,"[Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, From=Red, To=Blue]","(758.0, 938.0)",ChangeLEDColor
+2013-12-10 19:18:59,615,,"(864.0, 836.0)",EndTouch
+2013-12-10 19:18:59,615,"[Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, From=Red, To=Blue]","(1255.0, 506.0)",ChangeLEDColor
+2013-12-10 19:18:59,615,,"(1356.0, 646.0)",EndTouch
+2013-12-10 19:19:01,617,"[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active]","(1215.0, 1286.0)",SelectNode
+2013-12-10 19:19:01,617,,"(1215.0, 1286.0)",StartTouch
+2013-12-10 19:19:02,618,"[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active]","(1127.0, 1366.0)",ReleaseNode
+2013-12-10 19:19:02,618,"[Connection: Id=93773186-91e7-4edc-aaca-1bac8777ca09, Source=[LEDNode: Id=07ef53f3-d175-467c-8f75-0a17f1b2ed85, PowerState=Active, Color=Blue], Destination=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active]]","(1023.0, 1100.0)",RemoveConnection
+2013-12-10 19:19:02,618,"[Connection: Id=2b0e3d5e-e734-4b70-af56-246f9544ea1b, Source=[LEDNode: Id=4d5f0240-a08d-4e82-ad3c-9172cb3d47f1, PowerState=Active, Color=Blue], Destination=[BatteryNode: Id=0d9f2b54-dab0-4c72-a7ac-943b1fc3b4d6, PowerState=Active]]","(1271.0, 885.0)",RemoveConnection
+2013-12-10 19:19:02,618,,"(1514.0, 1143.0)",EndTouch
