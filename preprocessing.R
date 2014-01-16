@@ -14,7 +14,15 @@ player12M <- read.csv(file="2013.12.10-02-actions.log.csv",
 cleanData <- function(input) {
   input <- renameColumnHeaders(input)
   input["timestamp"] <- formatTimestamps(input[, "timestamp"])
+  input <- excludeActivityTypesFromData(input)
   return(as.data.frame(input))
+}
+
+excludeActivityTypesFromData <- function(input) {
+  output <- subset(input,
+                   activityType != "StartTouch" &
+                   activityType != "EndTouch")
+  return(output)
 }
 
 formatTimestamps <- function(timestamps) {
