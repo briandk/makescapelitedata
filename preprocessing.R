@@ -59,6 +59,7 @@ activityTypeOverTime <- function(input) {
                 right=FALSE)
   p <- p + scale_color_brewer(palette="Set1",
                               name = "Activity Type")
+  p <- p + xlab("Session Time Elapsed (s)")
   
   return(p)
 }
