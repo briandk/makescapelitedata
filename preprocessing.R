@@ -47,9 +47,15 @@ player12M <- cleanData(player12M)
 
 ## Plots
 
-activityTypeOverTime <- function(input) {
+initializePlot <- function(input) {
   p <- ggplot(aes(x = secondsSinceSessionStart),
-              data = input)  
+              data = input)
+  p <- p + xlab("Session Time Elapsed (s)")
+  return(p)
+}
+
+activityTypeOverTime <- function(input) {
+  p <- initializePlot(input)
   p <- p + geom_line(aes(y = ..count..,
                     color = as.factor(activityType),
                     group = as.factor(activityType)), 
@@ -59,7 +65,6 @@ activityTypeOverTime <- function(input) {
                 right=FALSE)
   p <- p + scale_color_brewer(palette="Set1",
                               name = "Activity Type")
-  p <- p + xlab("Session Time Elapsed (s)")
   
   return(p)
 }
