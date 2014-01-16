@@ -3,16 +3,18 @@ library(ggplot2)
 library(plyr)
 library(lubridate)
 
-setwd("~/Dropbox/IDC 2014/log data/")
-
 player13M <- read.csv(file="2013.12.10-01-actions.log.csv",
-                    header=TRUE,
-                    stringsAsFactors=FALSE)
+                      header=TRUE,
+                      stringsAsFactors=FALSE)
+
+player12M <- read.csv(file="2013.12.10-02-actions.log.csv",
+                      header=TRUE,
+                      stringsAsFactors=FALSE)
 
 cleanData <- function(input) {
   input <- renameColumnHeaders(input)
   input["timestamp"] <- formatTimestamps(input[, "timestamp"])
-  return(input)
+  return(as.data.frame(input))
 }
 
 formatTimestamps <- function(timestamps) {
@@ -33,24 +35,27 @@ renameColumnHeaders <- function(input) {
 }
 
 player13M <- cleanData(player13M)
+player12M <- cleanData(player12M)
 
 ## Plots
 
 activityTypeOverTime <- function(input) {
-  return(
-    geom_line(aes(y = ..count..,
-                  color = as.factor(activityType),
-                  group = as.factor(activityType)), 
-              stat="bin",
-              binwidth=30,
-              origin=0,
-              right=FALSE)
-  )
+  p <- ggplot(aes(x = secondsSinceSessionStart),
+              data = input)  
+  p <- p + geom_line(aes(y = ..count..,
+                    color = as.factor(activityType),
+                    group = as.factor(activityType)), 
+                stat="bin",
+                binwidth=30,
+                origin=0,
+                right=FALSE)
+  return(p)
 }
 
-p <- ggplot(aes(x = secondsSinceSessionStart),
-            data = player13M)
 
-p <- p + activityTypeOverTime(player13M)
 
-print(p)
+p12M <- activityTypeOverTime(player12M)
+p13M <- activityTypeOverTime(player13M)
+
+print(p12M)
+print(p13M)
