@@ -57,6 +57,9 @@ activityTypeOverTime <- function(input) {
                 binwidth=30,
                 origin=0,
                 right=FALSE)
+  p <- p + scale_color_brewer(palette="Accent",
+                              name = "Activity Type")
+  
   return(p)
 }
 
