@@ -3,13 +3,13 @@ library(ggplot2)
 library(plyr)
 library(lubridate)
 
-player13M <- read.csv(file="2013.12.10-01-actions.log.csv",
-                      header=TRUE,
+player13M <- read.csv(file="player13MreducedActions.csv",
+                      header=FALSE,
                       stringsAsFactors=FALSE)
 player13M <- cbind(player13M, player="player13M")
 
-player12M <- read.csv(file="2013.12.10-02-actions.log.csv",
-                      header=TRUE,
+player12M <- read.csv(file="player12MreducedActions.csv",
+                      header=FALSE,
                       stringsAsFactors=FALSE)
 player12M <- cbind(player12M, player="player12M")
 
@@ -35,12 +35,12 @@ formatTimestamps <- function(timestamps) {
 }
 
 renameColumnHeaders <- function(input) {
-  output <- rename(input, c("time_stamp"              = "timestamp",
-                            "sec_since_session_start" = "secondsSinceSessionStart",
-                            "data"                    = "logData",
-                            "screen_position"         = "screenPosition",
-                            "X__class__"              = "activityType",
-                            "player"                  = "player"))
+  output <- rename(input, c("V1" = "timestamp",
+                            "V2" = "secondsSinceSessionStart",
+                            "V3" = "logData",
+                            "V4" = "screenPosition",
+                            "V5" = "activityType",
+                            "player" = "player"))
   return(output)
 }
 
