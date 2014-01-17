@@ -57,23 +57,23 @@ initializePlot <- function(input) {
 
 activityTypeOverTime <- function(input) {
   p <- initializePlot(input)
-  p <- p + geom_line(aes(y = ..count..,
-                    color = as.factor(activityType),
-                    group = as.factor(activityType)), 
+  p <- p + geom_area(aes(y = ..count..,
+                    fill = as.factor(activityType),
+                    group = as.factor(activityType)),
+                data = input,
                 stat="bin",
                 binwidth=30,
                 origin=0,
                 right=FALSE)
-  p <- p + scale_color_brewer(palette="Set1",
-                              name = "Activity Type")
+  p <- p + scale_fill_brewer(palette="Set1",
+                             name = "Activity Type")
+  p <- p + facet_wrap(~ player, nrow=2)
   
   return(p)
 }
 
 
 
-# p12M <- activityTypeOverTime(player12M)
-# p13M <- activityTypeOverTime(player13M)
+figure1 <- activityTypeOverTime(combinedPlayerData)
 
-print(p12M)
-print(p13M)
+print(figure1)
