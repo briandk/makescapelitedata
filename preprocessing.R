@@ -72,8 +72,28 @@ activityTypeOverTime <- function(input) {
   return(p)
 }
 
+playerProgressByActivityType <- function(input) {
+  p <- initializePlot(input)
+  p <- p + geom_line(aes(y = ..count..,
+                         color = as.factor(player)),
+                     data = input,
+                     stat = "bin",
+                     binwidth = 30,
+                     origin = 0,
+                     right = FALSE)
+  p <- p + scale_color_brewer(palette="Set1",
+                              name = "Player")
+  p <- p + facet_grid(activityType ~ .)
+  return(p)
+}
 
 
-figure1 <- activityTypeOverTime(combinedPlayerData)
+
+figure5 <- activityTypeOverTime(combinedPlayerData)
+figure6 <- playerProgressByActivityType(combinedPlayerData)
 
 print(figure1)
+print(figure2)
+
+ggsave(plot=figure5, "~/Downloads/figure5.pdf")
+ggsave(plot=figure6, "~/Downloads/figure6.pdf")
